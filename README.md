@@ -3,6 +3,8 @@ AI-based Fake News Detection using NLP and Machine Learning
 
 ---
 
+
+
 ## 🧠 RESUME-READY PROJECT DESCRIPTION (COPY THIS)
 
 > **AI-Based Fake News Detection System**  
